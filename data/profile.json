@@ -1,0 +1,22 @@
+{
+  "name": "Sagar Rana",
+  "skills": [
+    "Node.js",
+    "React",
+    "MySQL",
+    "MongoDB",
+    "LLM",
+    "AI Agent",
+    "Agentic AI",
+    "Generative AI"
+  ],
+  "total_experience_years": 4,
+  "notice_period_days": 60,
+  "qualifications": ["BSC IT"],
+  "preferred_roles": [
+    "Backend Developer",
+    "Full Stack Developer",
+    "AI Engineer"
+  ],
+  "preferred_locations": ["Mumbai","Remote"]
+}

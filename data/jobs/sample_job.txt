@@ -1,0 +1,26 @@
+Role: Backend Developer
+
+We are looking for a Backend Developer with at least 3 years
+of professional backend development experience.
+
+Required skills:
+- Node.js
+- REST API development
+- MySQL
+- Git
+
+Preferred skills:
+- MongoDB
+- AWS
+- Experience building AI-powered features
+
+Responsibilities:
+- Build and maintain backend APIs.
+- Design database tables and optimize queries.
+- Investigate production issues.
+- Collaborate with frontend developers.
+
+Location: Bengaluru
+Work mode: Hybrid, 3 days per week in the office.
+
+Salary and educational requirements are not specified.

@@ -1,0 +1,5 @@
+{
+  "allowed_locations": ["Bengaluru"],
+  "allowed_work_modes": ["hybrid", "onsite"],
+  "minimum_skill_score": 75
+}
